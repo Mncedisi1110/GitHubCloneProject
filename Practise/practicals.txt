@@ -1,2 +1,8 @@
 New practical assessment.
+<<<<<<< HEAD
+One more assessment.
+=======
+More on assessments.
+>>>>>>> Learn2
+More on assessments.
 One more assessment.
